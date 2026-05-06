@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Visual Studio
+.vs/
+out/
+build/
+*.user
+*.suo
+
+# База данных (временные файлы)
+*.db-journal
