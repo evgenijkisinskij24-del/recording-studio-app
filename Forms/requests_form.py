@@ -42,7 +42,7 @@ class RequestsForm(QWidget):
         btn_save.clicked.connect(self.save_request)
         layout.addWidget(btn_save)
 
-        # ТАБЛИЦА ДЛЯ ПРОСМОТРА (Ответ на ваш вопрос)
+
         layout.addWidget(QLabel("Список всех зарегистрированных обращений:"))
         self.table = QTableWidget()
         self.table.setColumnCount(7)
