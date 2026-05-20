@@ -1,3 +1,4 @@
+![Build Status](https://github.com/evgenijkisinskij24-del/recording-studio-app/actions/workflows/ci.yml/badge.svg)
 # Приложение студии звукозаписи
 
 Учебный проект в рамках лабораторной работы.
